@@ -1,0 +1,10 @@
+pandas
+numpy
+streamlit
+optuna
+shap
+japanize_matplotlib
+lightgbm
+matplotlib
+pyecharts
+streamlit-echarts
